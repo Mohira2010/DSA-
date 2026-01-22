@@ -1,4 +1,4 @@
-# 1. Remove Duplicates from Sorted Array
+# 26. Remove Duplicates from Sorted Array
 
 - **Murakablik**: Easy
 - **Tegishlik Mavzular**: Array, Two Pointers
