@@ -9,3 +9,4 @@
 3   |      Palindrome Number                                                                         | [Python](./m/easy/palindromeNumber.md)             | Math | Two pointers                | Easy       |
 4   |      Search in Rotated Sorted Array                                                                        | [Python](./m/easy/SearchinRotatedSortedArray.md)             | Array | Binary Search                | Medium       |
 5   |       Plus One                                                                        | [Python](./m/easy/PlusOne.md)             | Array | Math               | Easy       |
+6   |       Search in Rotated Sorted Array II                                                                        | [Python](./m/easy/SearchinRotatedSortedArrayII.md)             | Array | Binary Search               | Medium       |
